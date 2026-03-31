@@ -1,4 +1,4 @@
-# Problem of the Day - Day 9
+# Problem of the Day - Day 10
 
 ## Problem Name:
 Middle of the Linked List
